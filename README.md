@@ -8,4 +8,4 @@ Manual:
 - Run Dissipation_impact.py to Reproduce Figure 8 of Reboul-Salze et al. 2024
 
 Caveat: 
-With numerical solving, it is important to test the results against theoretical predictions as some roots may be wrong results due to catastrophic substractions.
+With numerical solving, it is important to test the results against theoretical predictions as some roots may be wrong due to catastrophic substractions.
